@@ -88,7 +88,7 @@ div#me {
     border-radius: 10px;
   }
 
-  div#resume {
+div#resume {
     position: relative;
     top: 10px;
     right: 30%;
@@ -98,4 +98,4 @@ div#me {
     border: 5px double #b93153;
     text-align: center;
     border-radius: 10px;
-  }
+}
