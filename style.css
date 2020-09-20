@@ -1,0 +1,73 @@
+body{
+    color: gray;
+    background-color: azure;
+}
+
+img#farid{
+    border-radius: 50%;
+    margin-left: 10%;
+    align-items: center;
+}
+
+div#menu {
+    width: 12%;
+    align-items: center;
+    margin-left: 1%;
+}
+
+p#presentation {
+    color: black;
+    font: Arial;
+    font-size: 17px;
+    text-align: center;
+    margin-left: 15%;
+}
+
+h1#name{
+    margin-left: 15%;
+    text-align: center;
+}
+
+.menu{
+    
+    font: arial;
+    font-size: 17px;
+}
+
+.btn-menu:hover a, .btn-menu:hover{
+    background-color: azure;
+    color: #b93153;
+    transition: 0.2s all;
+}
+
+.btn-menu {
+    color: #b93153;
+    list-style-type: none;
+    font-size: 17px; 
+    background: #b93153;
+    margin-bottom: 3px;
+    text-align: center;
+    margin-left: 0px;
+}
+
+ul{
+    margin-left: 0;
+}
+
+.a-bar{
+    text-decoration: none;
+    color: azure;
+    font-size: 35px;
+    padding: 1%;
+    font: Arial;
+}
+
+.contact{
+    color : #b93153;
+    list-style-type: none;
+
+}
+
+#lien-interne {
+    color: aliceblue;
+}
