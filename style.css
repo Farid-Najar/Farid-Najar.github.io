@@ -86,6 +86,7 @@ div#me {
     border: 5px double #b93153;
     text-align: center;
     border-radius: 10px;
+    padding: 2px;
   }
 
 div#resume {
