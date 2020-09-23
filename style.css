@@ -82,7 +82,7 @@ div#me {
     right: 30%;
     left : 25%;
     width: 60%;
-    font-size: 23px;
+    font-size: 21px;
     border: 5px double #b93153;
     text-align: center;
     border-radius: 10px;
@@ -95,8 +95,29 @@ div#resume {
     right: 30%;
     left : 25%;
     width: 60%;
-    font-size: 23px;
+    font-size: 21px;
     border: 5px double #b93153;
     text-align: center;
     border-radius: 10px;
+}
+
+div#works {
+    position: relative;
+    top: 20px;
+    right: 30%;
+    left : 25%;
+    width: 60%;
+    font-size: 21px;
+    border: 5px double #b93153;
+    text-align: center;
+    border-radius: 10px;
+}
+
+ul.cours{
+    text-align: left;
+}
+
+li.semester{
+    margin-left: 70px;
+    text-decoration: underline;
 }
